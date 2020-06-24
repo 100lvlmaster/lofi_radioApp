@@ -1,6 +1,12 @@
 # lofi_music
 
 A new Flutter project.
+uses a youtube livestream to stream audio for lofi beats
+###adavantages
++ synced across devices
++ lighthweight
++ minimal interface
+
 
 ## Getting Started
 
